@@ -1,0 +1,103 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.bug_wings",
+				"texture_width": 64,
+				"texture_height": 64,
+				"visible_bounds_width": 5,
+				"visible_bounds_height": 4,
+				"visible_bounds_offset": [0, 1, 0]
+			},
+			"bones": [
+				{
+					"name": "root",
+					"pivot": [0, 0, 0]
+				},
+				{
+					"name": "body",
+					"parent": "root",
+					"pivot": [0, 12, 0]
+				},
+				{
+					"name": "wings",
+					"parent": "body",
+					"pivot": [0, 20, 1.5]
+				},
+				{
+					"name": "wing_left",
+					"parent": "wings",
+					"pivot": [-1, 20, 2],
+					"rotation": [0, -5, 0]
+				},
+				{
+					"name": "wing_left_1",
+					"parent": "wing_left",
+					"pivot": [-1, 20, 2],
+					"rotation": [0, 27.5, 2.5],
+					"cubes": [
+						{
+							"origin": [-27, 19, 2],
+							"size": [26, 12, 0],
+							"uv": {
+								"south": {"uv": [32, 13], "uv_size": [26, 12]}
+							}
+						}
+					]
+				},
+				{
+					"name": "wing_left_2",
+					"parent": "wing_left",
+					"pivot": [-1, 19, 2],
+					"rotation": [0, 37.5, -2.5],
+					"cubes": [
+						{
+							"origin": [-20, 14, 2],
+							"size": [19, 6, 0],
+							"uv": {
+								"south": {"uv": [32, 26], "uv_size": [19, 6]}
+							}
+						}
+					]
+				},
+				{
+					"name": "wing_right",
+					"parent": "wings",
+					"pivot": [1, 20, 2],
+					"rotation": [0, 5, 0]
+				},
+				{
+					"name": "wing_right_1",
+					"parent": "wing_right",
+					"pivot": [1, 20, 2],
+					"rotation": [0, -27.5, -2.5],
+					"cubes": [
+						{
+							"origin": [1, 19, 2],
+							"size": [26, 12, 0],
+							"uv": {
+								"south": {"uv": [58, 13], "uv_size": [-26, 12]}
+							}
+						}
+					]
+				},
+				{
+					"name": "wing_right_2",
+					"parent": "wing_right",
+					"pivot": [1, 19, 2],
+					"rotation": [0, -37.5, 2.5],
+					"cubes": [
+						{
+							"origin": [1, 14, 2],
+							"size": [19, 6, 0],
+							"uv": {
+								"south": {"uv": [51, 26], "uv_size": [-19, 6]}
+							}
+						}
+					]
+				}
+			]
+		}
+	]
+}

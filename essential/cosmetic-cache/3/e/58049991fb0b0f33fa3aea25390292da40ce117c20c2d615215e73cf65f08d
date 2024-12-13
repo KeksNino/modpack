@@ -1,0 +1,146 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.reindeer",
+				"texture_width": 80,
+				"texture_height": 80,
+				"visible_bounds_width": 5,
+				"visible_bounds_height": 4.5,
+				"visible_bounds_offset": [0, 1.75, 0]
+			},
+			"bones": [
+				{
+					"name": "root",
+					"pivot": [0, 0, 0]
+				},
+				{
+					"name": "head",
+					"parent": "root",
+					"pivot": [0, 24, 0]
+				},
+				{
+					"name": "pet",
+					"parent": "head",
+					"pivot": [0, 32, 0]
+				},
+				{
+					"name": "pet_reindeer",
+					"parent": "pet",
+					"pivot": [0, 32, 0]
+				},
+				{
+					"name": "pet_body",
+					"parent": "pet_reindeer",
+					"pivot": [0, 32, 0],
+					"cubes": [
+						{"origin": [-2.5, 32, -3], "size": [5, 4, 6], "inflate": 0.025, "uv": [0, 12]}
+					]
+				},
+				{
+					"name": "pet_head",
+					"parent": "pet_body",
+					"pivot": [0, 36, -1],
+					"cubes": [
+						{"origin": [-3.5, 34, -7], "size": [7, 6, 6], "uv": [0, 0]},
+						{"origin": [-1.5, 34, -9], "size": [3, 3, 2], "uv": [27, 7]},
+						{
+							"origin": [0.5, 39, -3],
+							"size": [9, 8, 0],
+							"uv": {
+								"north": {"uv": [29, 15], "uv_size": [9, 8]}
+							}
+						},
+						{
+							"origin": [-9.5, 39, -3],
+							"size": [9, 8, 0],
+							"uv": {
+								"north": {"uv": [38, 15], "uv_size": [-9, 8]}
+							}
+						}
+					]
+				},
+				{
+					"name": "pet_ears",
+					"parent": "pet_head",
+					"pivot": [0, 36, -1]
+				},
+				{
+					"name": "pet_ear_right",
+					"parent": "pet_ears",
+					"pivot": [-3.5, 36, -3],
+					"rotation": [22.5, 45, 22.5],
+					"cubes": [
+						{"origin": [-7.5, 36, -3], "size": [4, 3, 1], "uv": [21, 1], "mirror": true}
+					]
+				},
+				{
+					"name": "pet_ear_left",
+					"parent": "pet_ears",
+					"pivot": [3.5, 36, -3],
+					"rotation": [22.5, -45, -22.5],
+					"cubes": [
+						{"origin": [3.5, 36, -3], "size": [4, 3, 1], "uv": [21, 1]}
+					]
+				},
+				{
+					"name": "pet_tail",
+					"parent": "pet_body",
+					"pivot": [0, 36, 3],
+					"rotation": [-22.5, 0, 0],
+					"cubes": [
+						{
+							"origin": [-2.5, 36, 3],
+							"size": [5, 0, 3],
+							"uv": {
+								"up": {"uv": [23, 18], "uv_size": [5, 3]}
+							}
+						}
+					]
+				},
+				{
+					"name": "legs_pet",
+					"parent": "pet_reindeer",
+					"pivot": [0, 32, 0]
+				},
+				{
+					"name": "pet_leg_front_left",
+					"parent": "legs_pet",
+					"pivot": [2.5, 33, -2],
+					"rotation": [-45, 0, -90],
+					"cubes": [
+						{"origin": [1.5, 30, -3], "size": [2, 3, 2], "uv": [0, 23]}
+					]
+				},
+				{
+					"name": "pet_leg_front_right",
+					"parent": "legs_pet",
+					"pivot": [-2.5, 33, -2],
+					"rotation": [-45, 0, 90],
+					"cubes": [
+						{"origin": [-3.5, 30, -3], "size": [2, 3, 2], "uv": [0, 23], "mirror": true}
+					]
+				},
+				{
+					"name": "pet_leg_back_left",
+					"parent": "legs_pet",
+					"pivot": [1.5, 33, 2],
+					"rotation": [45, 0, -90],
+					"cubes": [
+						{"origin": [0.5, 30, 1], "size": [2, 3, 2], "uv": [9, 23]}
+					]
+				},
+				{
+					"name": "pet_leg_back_right",
+					"parent": "legs_pet",
+					"pivot": [-1.5, 33, 2],
+					"rotation": [45, 0, 90],
+					"cubes": [
+						{"origin": [-2.5, 30, 1], "size": [2, 3, 2], "uv": [9, 23], "mirror": true}
+					]
+				}
+			]
+		}
+	]
+}

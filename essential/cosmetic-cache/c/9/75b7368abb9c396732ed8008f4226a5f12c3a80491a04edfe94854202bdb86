@@ -1,0 +1,27 @@
+[
+    {
+        "type": "ARMOR_HANDLING",
+        "id": "FALLEN_ANGEL_SWORD",
+        "enabled": true,
+        "data": {
+            "body": true
+        }
+    },
+    {
+        "type": "VARIANTS",
+        "id": "UNUSED",
+        "enabled": true,
+        "data": {
+            "variants": [
+                {
+                    "name": "gold",
+                    "color": 14529024
+                },
+                {
+                    "name": "silver",
+                    "color": 12829635
+                }
+            ]
+        }
+    }
+]

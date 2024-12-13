@@ -1,0 +1,157 @@
+[17:20:47] [Render thread/INFO] [JMLogger] JourneyMap log initialized.
+[17:20:47] [Render thread/INFO] [JourneymapClient] initialize ENTER
+[17:20:47] [Render thread/INFO] [ClientAPI] [ClientAPI] built with JourneyMap API 1.9-SNAPSHOT
+[17:20:47] [Render thread/INFO] [PluginHelper] Initializing plugins with Client API: journeymap.client.api.impl.ClientAPI
+[17:20:47] [Render thread/INFO] [PluginHelper] Initialized IClientPlugin: net.blay09.mods.waystones.compat.JourneyMapIntegration
+[17:20:47] [Render thread/INFO] [PluginHelper] Initialized IClientPlugin: com.railwayteam.railways.compat.journeymap.RailwayMapPlugin
+[17:20:47] [Render thread/INFO] [PluginHelper] Initialized IClientPlugin: com.gregtechceu.gtceu.integration.map.journeymap.JourneyMapPlugin
+[17:20:47] [Render thread/INFO] [PropertiesBase] gtceu (FirstLoaded) Setting config file to version "5.10.3": addon.gtceu.config
+[17:20:47] [Render thread/INFO] [PropertiesBase] gtceu (Valid) Creating config file: C:\Users\KeksNino\AppData\Roaming\gdlauncher_carbon\data\instances\modpack\instance\journeymap\config\5.10\addons\addon.gtceu.config
+[17:20:47] [Render thread/INFO] [PropertiesBase] core (FirstLoaded) Setting config file to version "5.10.3": journeymap.core.config
+[17:20:47] [Render thread/INFO] [PropertiesBase] core (Valid) Creating config file: C:\Users\KeksNino\AppData\Roaming\gdlauncher_carbon\data\instances\modpack\instance\journeymap\config\5.10\journeymap.core.config
+[17:20:47] [Render thread/INFO] [PropertiesBase] fullmap (FirstLoaded) Setting config file to version "5.10.3": journeymap.fullmap.config
+[17:20:47] [Render thread/INFO] [PropertiesBase] fullmap (Valid) Creating config file: C:\Users\KeksNino\AppData\Roaming\gdlauncher_carbon\data\instances\modpack\instance\journeymap\config\5.10\journeymap.fullmap.config
+[17:20:47] [Render thread/INFO] [PropertiesBase] minimap (Initialized) Setting config file to version "5.10.3": journeymap.minimap.config
+[17:20:47] [Render thread/INFO] [PropertiesBase] minimap (Valid) Creating config file: C:\Users\KeksNino\AppData\Roaming\gdlauncher_carbon\data\instances\modpack\instance\journeymap\config\5.10\journeymap.minimap.config
+[17:20:47] [Render thread/INFO] [PropertiesBase] minimap2 (FirstLoaded) Setting config file to version "5.10.3": journeymap.minimap2.config
+[17:20:47] [Render thread/INFO] [PropertiesBase] minimap2 (Valid) Creating config file: C:\Users\KeksNino\AppData\Roaming\gdlauncher_carbon\data\instances\modpack\instance\journeymap\config\5.10\journeymap.minimap2.config
+[17:20:47] [Render thread/INFO] [PropertiesBase] topo (FirstLoaded) Setting config file to version "5.10.3": journeymap.topo.config
+[17:20:47] [Render thread/INFO] [PropertiesBase] topo (Valid) Creating config file: C:\Users\KeksNino\AppData\Roaming\gdlauncher_carbon\data\instances\modpack\instance\journeymap\config\5.10\journeymap.topo.config
+[17:20:47] [Render thread/INFO] [PropertiesBase] webmap (FirstLoaded) Setting config file to version "5.10.3": journeymap.webmap.config
+[17:20:47] [Render thread/INFO] [PropertiesBase] webmap (Valid) Creating config file: C:\Users\KeksNino\AppData\Roaming\gdlauncher_carbon\data\instances\modpack\instance\journeymap\config\5.10\journeymap.webmap.config
+[17:20:47] [Render thread/INFO] [PropertiesBase] waypoint (FirstLoaded) Setting config file to version "5.10.3": journeymap.waypoint.config
+[17:20:47] [Render thread/INFO] [PropertiesBase] waypoint (Valid) Creating config file: C:\Users\KeksNino\AppData\Roaming\gdlauncher_carbon\data\instances\modpack\instance\journeymap\config\5.10\journeymap.waypoint.config
+[17:20:47] [Render thread/INFO] [?] Version: JourneyMap 1.20.1-5.10.3, built with forge 1.20.1-47.2.30
+forge: 47.3.12
+Environment: os.name, os.arch, java.version, user.country, user.language=null, game language=en_us, locale=en_us
+Features: 
+	RadarPlayers : singleplayer = true , multiplayer = true
+	RadarAnimals : singleplayer = true , multiplayer = true
+	RadarMobs : singleplayer = true , multiplayer = true
+	RadarVillagers : singleplayer = true , multiplayer = true
+	MapTopo : singleplayer = true , multiplayer = true
+	MapSurface : singleplayer = true , multiplayer = true
+	MapCaves : singleplayer = true , multiplayer = true
+	MapBiome : singleplayer = true , multiplayer = true
+MiniMapProperties{state=SavedOk, file=journeymap.minimap.config, configVersion=5.10.3, zoomLevel=0, compassFontScale=1.0, terrainAlpha=100, showEntityNames=true, positionX=0.9, positionY=0.25, effectVertical=false, showPlayerHeading=true, sizePercent=30, playerDisplayScale=1.0, showDayNight=true, showPets=true, preferredMapType=day, showCompass=true, mobDisplay=jm.common.entity_display.dots, systemTimeRealFormat=HH:mm:ss, shape=jm.minimap.shape_circle, showSelf=true, selfDisplayScale=1.0, showGrid=true, reticleOrientation=jm.minimap.orientation.compass, gameTimeRealFormat=HH:mm:ss, effectTranslateX=0, showWaypoints=true, minimapKeyMovementSpeed=0.001, showAnimals=true, infoSlotAlpha=0.7, effectTranslateY=0, showWaypointLabels=true, moveEffectIcons=true, position=jm.minimap.position_topright, fontScale=1.0, showPlayers=true, waypointIconScale=1.0, frameAlpha=100, effectReversed=false, backgroundAlpha=0.8, enabled=true, showVillagers=true, info2Label=jm.theme.labelsource.gametime, info3Label=jm.theme.labelsource.location, showMobs=true, waypointLabelScale=1.0, showReticle=true, orientation=jm.minimap.orientation.north, info4Label=jm.theme.labelsource.biome, locationFormat=xzyv, playerDisplay=jm.common.entity_display.dots, mobDisplayScale=1.0, showCaves=true, showMobHeading=true, locationFormatVerbose=true, info1Label=jm.theme.labelsource.blank}
+MiniMapProperties{state=SavedOk, file=journeymap.minimap2.config, configVersion=5.10.3, zoomLevel=0, compassFontScale=1.0, terrainAlpha=100, showEntityNames=true, positionX=0.9, positionY=0.25, effectVertical=false, showPlayerHeading=true, sizePercent=30, playerDisplayScale=1.0, showDayNight=true, showPets=true, preferredMapType=day, showCompass=true, mobDisplay=jm.common.entity_display.dots, systemTimeRealFormat=HH:mm:ss, shape=jm.minimap.shape_rectangle, showSelf=true, selfDisplayScale=1.0, showGrid=true, reticleOrientation=jm.minimap.orientation.compass, gameTimeRealFormat=HH:mm:ss, effectTranslateX=0, showWaypoints=true, minimapKeyMovementSpeed=0.001, showAnimals=true, infoSlotAlpha=0.7, effectTranslateY=0, showWaypointLabels=true, moveEffectIcons=true, position=jm.minimap.position_topright, fontScale=1.0, showPlayers=true, waypointIconScale=1.0, frameAlpha=100, effectReversed=false, backgroundAlpha=0.8, enabled=true, showVillagers=true, info2Label=jm.theme.labelsource.gametime, info3Label=jm.theme.labelsource.location, showMobs=true, waypointLabelScale=1.0, showReticle=true, orientation=jm.minimap.orientation.north, info4Label=jm.theme.labelsource.biome, locationFormat=xzyv, playerDisplay=jm.common.entity_display.dots, mobDisplayScale=1.0, showCaves=true, showMobHeading=true, locationFormatVerbose=true, info1Label=jm.theme.labelsource.blank}
+FullMapProperties{state=SavedOk, file=journeymap.fullmap.config, configVersion=5.10.3, zoomLevel=0, showPlayers=true, waypointIconScale=1.0, showEntityNames=true, showPlayerHeading=true, showVillagers=true, showPlayerLoc=true, showKeys=true, playerDisplayScale=1.0, showMobs=true, showPets=true, waypointLabelScale=1.0, preferredMapType=day, mobDisplay=jm.common.entity_display.dots, showSelf=true, locationFormat=xzyv, playerDisplay=jm.common.entity_display.dots, mobDisplayScale=1.0, selfDisplayScale=1.0, showGrid=true, showMouseLoc=true, showWaypoints=true, showCaves=true, showAnimals=true, showMobHeading=true, showWaypointLabels=true, locationFormatVerbose=true, fontScale=1.0}
+WaypointProperties{state=SavedOk, file=journeymap.waypoint.config, configVersion=5.10.3, autoRemoveDeathpointDistance=2, dateFormat=MM-dd-yyyy, autoRemoveDeathpoints=false, fullscreenDoubleClickToCreate=true, managerDimensionFocus=false, minDistance=4, boldLabel=false, textureSmall=true, showDeathpointlabel=true, beaconEnabled=true, createDeathpoints=true, showName=true, disableStrikeThrough=false, maxDistance=0, autoHideLabel=true, autoRemoveTempWaypoints=2, teleportCommand=/tp {name} {x} {y} {z}, showStaticBeam=true, shaderBeacon=false, timeFormat=HH:mm:ss, showDeviationLabel=false, showDistance=true, showRotatingBeam=true, fontScale=2.0, showTexture=true, managerEnabled=true}
+WebMapProperties{state=SavedOk, file=journeymap.webmap.config, configVersion=5.10.3, port=8080, enabled=false}
+CoreProperties{state=SavedOk, file=journeymap.core.config, configVersion=5.10.3, verboseColorPalette=false, maxPlayersData=32, mapSurfaceAboveCaves=true, dataCachingEnabled=true, optionsManagerViewed=null, announceMod=true, colorPassive=#bbbbbb, mapBlendWater=false, renderDistanceSurfaceMax=0, seedId=false, radarVerticalDistance=16, mapBlendGrass=true, recordCacheStats=false, hideSneakingEntities=true, revealShape=jm.minimap.shape_circle, mapBiome=true, alwaysMapSurface=false, colorVillager=#88e188, mapPlants=false, colorPet=#0077ff, radarLateralDistance=64, mapBathymetry=false, mapCrops=true, maxMobsData=32, mapPlantShadows=false, alwaysMapCaves=false, checkUpdates=true, mapBlendFoliage=true, hideSpectators=false, mappingEnabled=true, colorPlayer=#ffffff, tileHighDisplayQuality=true, cacheVillagersData=2200, logLevel=INFO, maxVillagersData=32, mapWaterBiomeColors=false, maxAnimalsData=32, mapTransparency=true, caveBlackAsClear=false, tileRenderType=1, caveIgnoreGlass=true, mapTopography=true, renderDistanceCaveMax=0, mapAntialiasing=true, colorSelf=#0000ff, cachePlayersData=2000, cacheMobsData=3000, cachePlayerData=1000, splashViewed=null, colorHostile=#ff0000, cacheAnimalsData=3100, themeName=OceanMonument, mapCaveLighting=true, renderDelay=2, glErrorChecking=false, autoMapPoll=2000}
+[17:20:48] [Render thread/INFO] [JourneymapClient] initialize EXIT, elapsed count 1 avg 582,25ms
+[17:21:31] [Render thread/INFO] [JourneymapClient] Journeymap PostInit
+[17:21:31] [Render thread/INFO] [ThemeLoader] Preloaded theme textures: 73
+[17:21:31] [Render thread/INFO] [JourneymapClient] postInitialize EXIT, elapsed count 1 avg 270,3ms
+[17:26:33] [Server thread/INFO] [ForgeConfig] Loading JourneyMap Forge Configs
+[17:28:12] [Server thread/INFO] [PropertiesBase] global (FirstLoaded) Setting config file to version "5.10.3": journeymap.server.global.config
+[17:28:12] [Server thread/INFO] [PropertiesBase] global (Valid) Creating config file: C:\Users\KeksNino\AppData\Roaming\gdlauncher_carbon\data\instances\modpack\instance\journeymap\server\5.10\journeymap.server.global.config
+[17:28:12] [Server thread/INFO] [PropertiesBase] default (FirstLoaded) Setting config file to version "5.10.3": journeymap.server.default.config
+[17:28:12] [Server thread/INFO] [PropertiesBase] default (Valid) Creating config file: C:\Users\KeksNino\AppData\Roaming\gdlauncher_carbon\data\instances\modpack\instance\journeymap\server\5.10\journeymap.server.default.config
+[17:28:12] [Server thread/INFO] [PropertiesBase] minecraft~overworld (Initialized) Setting config file to version "5.10.3": journeymap.server.minecraft~overworld.config
+[17:28:12] [Server thread/INFO] [PropertiesBase] minecraft~overworld (Valid) Creating config file: C:\Users\KeksNino\AppData\Roaming\gdlauncher_carbon\data\instances\modpack\instance\journeymap\server\5.10\journeymap.server.minecraft~overworld.config
+[17:28:12] [Server thread/INFO] [PropertiesBase] gcyr~venus (Initialized) Setting config file to version "5.10.3": journeymap.server.gcyr~venus.config
+[17:28:12] [Server thread/INFO] [PropertiesBase] gcyr~venus (Valid) Creating config file: C:\Users\KeksNino\AppData\Roaming\gdlauncher_carbon\data\instances\modpack\instance\journeymap\server\5.10\journeymap.server.gcyr~venus.config
+[17:28:12] [Server thread/INFO] [PropertiesBase] ad_astra~moon (Initialized) Setting config file to version "5.10.3": journeymap.server.ad_astra~moon.config
+[17:28:12] [Server thread/INFO] [PropertiesBase] ad_astra~moon (Valid) Creating config file: C:\Users\KeksNino\AppData\Roaming\gdlauncher_carbon\data\instances\modpack\instance\journeymap\server\5.10\journeymap.server.ad_astra~moon.config
+[17:28:12] [Server thread/INFO] [PropertiesBase] mahoutsukai~reality_marble (Initialized) Setting config file to version "5.10.3": journeymap.server.mahoutsukai~reality_marble.config
+[17:28:12] [Server thread/INFO] [PropertiesBase] mahoutsukai~reality_marble (Valid) Creating config file: C:\Users\KeksNino\AppData\Roaming\gdlauncher_carbon\data\instances\modpack\instance\journeymap\server\5.10\journeymap.server.mahoutsukai~reality_marble.config
+[17:28:13] [Server thread/INFO] [PropertiesBase] gcyr~venus_orbit (Initialized) Setting config file to version "5.10.3": journeymap.server.gcyr~venus_orbit.config
+[17:28:13] [Server thread/INFO] [PropertiesBase] gcyr~venus_orbit (Valid) Creating config file: C:\Users\KeksNino\AppData\Roaming\gdlauncher_carbon\data\instances\modpack\instance\journeymap\server\5.10\journeymap.server.gcyr~venus_orbit.config
+[17:28:13] [Server thread/INFO] [PropertiesBase] lostcities~lostcity (Initialized) Setting config file to version "5.10.3": journeymap.server.lostcities~lostcity.config
+[17:28:13] [Server thread/INFO] [PropertiesBase] lostcities~lostcity (Valid) Creating config file: C:\Users\KeksNino\AppData\Roaming\gdlauncher_carbon\data\instances\modpack\instance\journeymap\server\5.10\journeymap.server.lostcities~lostcity.config
+[17:28:13] [Server thread/INFO] [PropertiesBase] ad_astra~mars_orbit (Initialized) Setting config file to version "5.10.3": journeymap.server.ad_astra~mars_orbit.config
+[17:28:13] [Server thread/INFO] [PropertiesBase] ad_astra~mars_orbit (Valid) Creating config file: C:\Users\KeksNino\AppData\Roaming\gdlauncher_carbon\data\instances\modpack\instance\journeymap\server\5.10\journeymap.server.ad_astra~mars_orbit.config
+[17:28:13] [Server thread/INFO] [PropertiesBase] allthemodium~mining (Initialized) Setting config file to version "5.10.3": journeymap.server.allthemodium~mining.config
+[17:28:13] [Server thread/INFO] [PropertiesBase] allthemodium~mining (Valid) Creating config file: C:\Users\KeksNino\AppData\Roaming\gdlauncher_carbon\data\instances\modpack\instance\journeymap\server\5.10\journeymap.server.allthemodium~mining.config
+[17:28:13] [Server thread/INFO] [PropertiesBase] ad_astra~moon_orbit (Initialized) Setting config file to version "5.10.3": journeymap.server.ad_astra~moon_orbit.config
+[17:28:13] [Server thread/INFO] [PropertiesBase] ad_astra~moon_orbit (Valid) Creating config file: C:\Users\KeksNino\AppData\Roaming\gdlauncher_carbon\data\instances\modpack\instance\journeymap\server\5.10\journeymap.server.ad_astra~moon_orbit.config
+[17:28:13] [Server thread/INFO] [PropertiesBase] gcyr~mars_orbit (Initialized) Setting config file to version "5.10.3": journeymap.server.gcyr~mars_orbit.config
+[17:28:13] [Server thread/INFO] [PropertiesBase] gcyr~mars_orbit (Valid) Creating config file: C:\Users\KeksNino\AppData\Roaming\gdlauncher_carbon\data\instances\modpack\instance\journeymap\server\5.10\journeymap.server.gcyr~mars_orbit.config
+[17:28:13] [Server thread/INFO] [PropertiesBase] gcyr~overworld_orbit (Initialized) Setting config file to version "5.10.3": journeymap.server.gcyr~overworld_orbit.config
+[17:28:13] [Server thread/INFO] [PropertiesBase] gcyr~overworld_orbit (Valid) Creating config file: C:\Users\KeksNino\AppData\Roaming\gdlauncher_carbon\data\instances\modpack\instance\journeymap\server\5.10\journeymap.server.gcyr~overworld_orbit.config
+[17:28:13] [Server thread/INFO] [PropertiesBase] ad_astra~venus (Initialized) Setting config file to version "5.10.3": journeymap.server.ad_astra~venus.config
+[17:28:13] [Server thread/INFO] [PropertiesBase] ad_astra~venus (Valid) Creating config file: C:\Users\KeksNino\AppData\Roaming\gdlauncher_carbon\data\instances\modpack\instance\journeymap\server\5.10\journeymap.server.ad_astra~venus.config
+[17:28:13] [Server thread/INFO] [PropertiesBase] minecraft~the_end (Initialized) Setting config file to version "5.10.3": journeymap.server.minecraft~the_end.config
+[17:28:13] [Server thread/INFO] [PropertiesBase] minecraft~the_end (Valid) Creating config file: C:\Users\KeksNino\AppData\Roaming\gdlauncher_carbon\data\instances\modpack\instance\journeymap\server\5.10\journeymap.server.minecraft~the_end.config
+[17:28:13] [Server thread/INFO] [PropertiesBase] minecraft~the_nether (Initialized) Setting config file to version "5.10.3": journeymap.server.minecraft~the_nether.config
+[17:28:13] [Server thread/INFO] [PropertiesBase] minecraft~the_nether (Valid) Creating config file: C:\Users\KeksNino\AppData\Roaming\gdlauncher_carbon\data\instances\modpack\instance\journeymap\server\5.10\journeymap.server.minecraft~the_nether.config
+[17:28:13] [Server thread/INFO] [PropertiesBase] ad_astra~glacio_orbit (Initialized) Setting config file to version "5.10.3": journeymap.server.ad_astra~glacio_orbit.config
+[17:28:13] [Server thread/INFO] [PropertiesBase] ad_astra~glacio_orbit (Valid) Creating config file: C:\Users\KeksNino\AppData\Roaming\gdlauncher_carbon\data\instances\modpack\instance\journeymap\server\5.10\journeymap.server.ad_astra~glacio_orbit.config
+[17:28:13] [Server thread/INFO] [PropertiesBase] deeperdarker~otherside (Initialized) Setting config file to version "5.10.3": journeymap.server.deeperdarker~otherside.config
+[17:28:13] [Server thread/INFO] [PropertiesBase] deeperdarker~otherside (Valid) Creating config file: C:\Users\KeksNino\AppData\Roaming\gdlauncher_carbon\data\instances\modpack\instance\journeymap\server\5.10\journeymap.server.deeperdarker~otherside.config
+[17:28:13] [Server thread/INFO] [PropertiesBase] gcyr~luna (Initialized) Setting config file to version "5.10.3": journeymap.server.gcyr~luna.config
+[17:28:13] [Server thread/INFO] [PropertiesBase] gcyr~luna (Valid) Creating config file: C:\Users\KeksNino\AppData\Roaming\gdlauncher_carbon\data\instances\modpack\instance\journeymap\server\5.10\journeymap.server.gcyr~luna.config
+[17:28:13] [Server thread/INFO] [PropertiesBase] gcyr~mercury (Initialized) Setting config file to version "5.10.3": journeymap.server.gcyr~mercury.config
+[17:28:13] [Server thread/INFO] [PropertiesBase] gcyr~mercury (Valid) Creating config file: C:\Users\KeksNino\AppData\Roaming\gdlauncher_carbon\data\instances\modpack\instance\journeymap\server\5.10\journeymap.server.gcyr~mercury.config
+[17:28:13] [Server thread/INFO] [PropertiesBase] ad_astra~mercury_orbit (Initialized) Setting config file to version "5.10.3": journeymap.server.ad_astra~mercury_orbit.config
+[17:28:13] [Server thread/INFO] [PropertiesBase] ad_astra~mercury_orbit (Valid) Creating config file: C:\Users\KeksNino\AppData\Roaming\gdlauncher_carbon\data\instances\modpack\instance\journeymap\server\5.10\journeymap.server.ad_astra~mercury_orbit.config
+[17:28:13] [Server thread/INFO] [PropertiesBase] ad_astra~glacio (Initialized) Setting config file to version "5.10.3": journeymap.server.ad_astra~glacio.config
+[17:28:13] [Server thread/INFO] [PropertiesBase] ad_astra~glacio (Valid) Creating config file: C:\Users\KeksNino\AppData\Roaming\gdlauncher_carbon\data\instances\modpack\instance\journeymap\server\5.10\journeymap.server.ad_astra~glacio.config
+[17:28:13] [Server thread/INFO] [PropertiesBase] gcyr~mercury_orbit (Initialized) Setting config file to version "5.10.3": journeymap.server.gcyr~mercury_orbit.config
+[17:28:13] [Server thread/INFO] [PropertiesBase] gcyr~mercury_orbit (Valid) Creating config file: C:\Users\KeksNino\AppData\Roaming\gdlauncher_carbon\data\instances\modpack\instance\journeymap\server\5.10\journeymap.server.gcyr~mercury_orbit.config
+[17:28:13] [Server thread/INFO] [PropertiesBase] blue_skies~everbright (Initialized) Setting config file to version "5.10.3": journeymap.server.blue_skies~everbright.config
+[17:28:13] [Server thread/INFO] [PropertiesBase] blue_skies~everbright (Valid) Creating config file: C:\Users\KeksNino\AppData\Roaming\gdlauncher_carbon\data\instances\modpack\instance\journeymap\server\5.10\journeymap.server.blue_skies~everbright.config
+[17:28:13] [Server thread/INFO] [PropertiesBase] ad_astra~mars (Initialized) Setting config file to version "5.10.3": journeymap.server.ad_astra~mars.config
+[17:28:13] [Server thread/INFO] [PropertiesBase] ad_astra~mars (Valid) Creating config file: C:\Users\KeksNino\AppData\Roaming\gdlauncher_carbon\data\instances\modpack\instance\journeymap\server\5.10\journeymap.server.ad_astra~mars.config
+[17:28:13] [Server thread/INFO] [PropertiesBase] gcyr~black_hole_orbit (Initialized) Setting config file to version "5.10.3": journeymap.server.gcyr~black_hole_orbit.config
+[17:28:13] [Server thread/INFO] [PropertiesBase] gcyr~black_hole_orbit (Valid) Creating config file: C:\Users\KeksNino\AppData\Roaming\gdlauncher_carbon\data\instances\modpack\instance\journeymap\server\5.10\journeymap.server.gcyr~black_hole_orbit.config
+[17:28:13] [Server thread/INFO] [PropertiesBase] gcyr~mars (Initialized) Setting config file to version "5.10.3": journeymap.server.gcyr~mars.config
+[17:28:13] [Server thread/INFO] [PropertiesBase] gcyr~mars (Valid) Creating config file: C:\Users\KeksNino\AppData\Roaming\gdlauncher_carbon\data\instances\modpack\instance\journeymap\server\5.10\journeymap.server.gcyr~mars.config
+[17:28:13] [Server thread/INFO] [PropertiesBase] ad_astra~earth_orbit (Initialized) Setting config file to version "5.10.3": journeymap.server.ad_astra~earth_orbit.config
+[17:28:13] [Server thread/INFO] [PropertiesBase] ad_astra~earth_orbit (Valid) Creating config file: C:\Users\KeksNino\AppData\Roaming\gdlauncher_carbon\data\instances\modpack\instance\journeymap\server\5.10\journeymap.server.ad_astra~earth_orbit.config
+[17:28:13] [Server thread/INFO] [PropertiesBase] twilightforest~twilight_forest (Initialized) Setting config file to version "5.10.3": journeymap.server.twilightforest~twilight_forest.config
+[17:28:13] [Server thread/INFO] [PropertiesBase] twilightforest~twilight_forest (Valid) Creating config file: C:\Users\KeksNino\AppData\Roaming\gdlauncher_carbon\data\instances\modpack\instance\journeymap\server\5.10\journeymap.server.twilightforest~twilight_forest.config
+[17:28:13] [Server thread/INFO] [PropertiesBase] aether~the_aether (Initialized) Setting config file to version "5.10.3": journeymap.server.aether~the_aether.config
+[17:28:13] [Server thread/INFO] [PropertiesBase] aether~the_aether (Valid) Creating config file: C:\Users\KeksNino\AppData\Roaming\gdlauncher_carbon\data\instances\modpack\instance\journeymap\server\5.10\journeymap.server.aether~the_aether.config
+[17:28:13] [Server thread/INFO] [PropertiesBase] allthemodium~the_other (Initialized) Setting config file to version "5.10.3": journeymap.server.allthemodium~the_other.config
+[17:28:13] [Server thread/INFO] [PropertiesBase] allthemodium~the_other (Valid) Creating config file: C:\Users\KeksNino\AppData\Roaming\gdlauncher_carbon\data\instances\modpack\instance\journeymap\server\5.10\journeymap.server.allthemodium~the_other.config
+[17:28:13] [Server thread/INFO] [PropertiesBase] bloodmagic~dungeon (Initialized) Setting config file to version "5.10.3": journeymap.server.bloodmagic~dungeon.config
+[17:28:13] [Server thread/INFO] [PropertiesBase] bloodmagic~dungeon (Valid) Creating config file: C:\Users\KeksNino\AppData\Roaming\gdlauncher_carbon\data\instances\modpack\instance\journeymap\server\5.10\journeymap.server.bloodmagic~dungeon.config
+[17:28:13] [Server thread/INFO] [PropertiesBase] ad_astra~venus_orbit (Initialized) Setting config file to version "5.10.3": journeymap.server.ad_astra~venus_orbit.config
+[17:28:13] [Server thread/INFO] [PropertiesBase] ad_astra~venus_orbit (Valid) Creating config file: C:\Users\KeksNino\AppData\Roaming\gdlauncher_carbon\data\instances\modpack\instance\journeymap\server\5.10\journeymap.server.ad_astra~venus_orbit.config
+[17:28:13] [Server thread/INFO] [PropertiesBase] gcyr~luna_orbit (Initialized) Setting config file to version "5.10.3": journeymap.server.gcyr~luna_orbit.config
+[17:28:13] [Server thread/INFO] [PropertiesBase] gcyr~luna_orbit (Valid) Creating config file: C:\Users\KeksNino\AppData\Roaming\gdlauncher_carbon\data\instances\modpack\instance\journeymap\server\5.10\journeymap.server.gcyr~luna_orbit.config
+[17:28:13] [Server thread/INFO] [PropertiesBase] ad_astra~mercury (Initialized) Setting config file to version "5.10.3": journeymap.server.ad_astra~mercury.config
+[17:28:13] [Server thread/INFO] [PropertiesBase] ad_astra~mercury (Valid) Creating config file: C:\Users\KeksNino\AppData\Roaming\gdlauncher_carbon\data\instances\modpack\instance\journeymap\server\5.10\journeymap.server.ad_astra~mercury.config
+[17:28:13] [Server thread/INFO] [PropertiesBase] blue_skies~everdawn (Initialized) Setting config file to version "5.10.3": journeymap.server.blue_skies~everdawn.config
+[17:28:13] [Server thread/INFO] [PropertiesBase] blue_skies~everdawn (Valid) Creating config file: C:\Users\KeksNino\AppData\Roaming\gdlauncher_carbon\data\instances\modpack\instance\journeymap\server\5.10\journeymap.server.blue_skies~everdawn.config
+[17:28:13] [Server thread/INFO] [PropertiesBase] mining_dimension~mining (Initialized) Setting config file to version "5.10.3": journeymap.server.mining_dimension~mining.config
+[17:28:13] [Server thread/INFO] [PropertiesBase] mining_dimension~mining (Valid) Creating config file: C:\Users\KeksNino\AppData\Roaming\gdlauncher_carbon\data\instances\modpack\instance\journeymap\server\5.10\journeymap.server.mining_dimension~mining.config
+[17:28:13] [Server thread/INFO] [PropertiesBase] allthemodium~the_beyond (Initialized) Setting config file to version "5.10.3": journeymap.server.allthemodium~the_beyond.config
+[17:28:13] [Server thread/INFO] [PropertiesBase] allthemodium~the_beyond (Valid) Creating config file: C:\Users\KeksNino\AppData\Roaming\gdlauncher_carbon\data\instances\modpack\instance\journeymap\server\5.10\journeymap.server.allthemodium~the_beyond.config
+[17:28:13] [Server thread/INFO] [PropertiesBase] ae2~spatial_storage (Initialized) Setting config file to version "5.10.3": journeymap.server.ae2~spatial_storage.config
+[17:28:13] [Server thread/INFO] [PropertiesBase] ae2~spatial_storage (Valid) Creating config file: C:\Users\KeksNino\AppData\Roaming\gdlauncher_carbon\data\instances\modpack\instance\journeymap\server\5.10\journeymap.server.ae2~spatial_storage.config
+[17:31:35] [Render thread/INFO] [ChatLog] JourneyMap: Press [J]
+[17:31:35] [Render thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): optionsManagerViewed=null
+[17:31:35] [Render thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): splashViewed=null
+[17:31:35] [Render thread/INFO] [WaypointStore] Loaded 0 waypoints from C:\Users\KeksNino\AppData\Roaming\gdlauncher_carbon\data\instances\modpack\instance\journeymap\data\sp\New World\waypoints
+[17:31:35] [Render thread/INFO] [JourneymapClient] Mapping started in C:\Users\KeksNino\AppData\Roaming\gdlauncher_carbon\data\instances\modpack\instance\journeymap\data\sp\New World\overworld. Memory: 14304MB total, 2120MB free 
+[17:31:36] [Render thread/WARN] [JMLogger] Can't get entityTexture for ars_nouveau:textures/entity_icon/starbuncle_pink.png
+[17:31:36] [Render thread/WARN] [JMLogger] Can't get entityTexture for alexsmobs:textures/entity_icon/bison.png
+[17:31:36] [Render thread/WARN] [JMLogger] Can't get entityTexture for alexsmobs:textures/entity_icon/raccoon.png
+[17:31:37] [Render thread/INFO] [ModBlockDelegate] Custom modded block handling enabled for create
+[17:31:37] [Render thread/INFO] [ModBlockDelegate] Custom modded block handling enabled for biomesoplenty
+[17:31:43] [Render thread/WARN] [JMLogger] Can't get entityTexture for productivebees:textures/entity_icon/bee/yellow_black_carpenter/bee.png
+[17:32:06] [Render thread/WARN] [JMLogger] Can't get entityTexture for ars_nouveau:textures/entity_icon/starbuncle_white.png
+[17:34:11] [JM-task-4/WARN] [StatTimer] SurfaceRenderer.renderSurface was slow: 7373.2781 (Warning limit reached)
+[17:34:11] [JM-task-4/WARN] [StatTimer] SurfaceRenderer.renderSurface: Avg:    41,98ms, Min:     1,35ms, Max:   12211,19ms, Total:         83 sec, Count:     1993, Canceled:        0, Slow:       10
+[17:34:15] [Render thread/WARN] [JMLogger] Can't get entityTexture for irons_spellbooks:textures/entity_icon/priest/priest_armored.png
+[17:34:15] [Render thread/WARN] [JMLogger] Can't get entityTexture for minecraft:textures/entity_icon/villager/scribe.png
+[17:34:15] [Render thread/WARN] [JMLogger] Can't get entityTexture for ars_nouveau:textures/entity_icon/whirlisprig_summer.png
+[17:34:15] [Render thread/WARN] [JMLogger] Can't get entityTexture for productivebees:textures/entity_icon/bee/slimy/bee.png
+[17:34:15] [Render thread/WARN] [JMLogger] Can't get entityTexture for alexsmobs:textures/entity_icon/fly.png
+[17:34:15] [Render thread/WARN] [JMLogger] Can't get entityTexture for alexsmobs:textures/entity_icon/lobster_red.png
+[17:34:15] [Render thread/WARN] [JMLogger] Can't get entityTexture for alexsmobs:textures/entity_icon/lobster_blue.png
+[17:34:29] [Render thread/WARN] [JMLogger] Can't get entityTexture for alexsmobs:textures/entity_icon/seal/seal_brown_1.png
+[17:34:29] [Render thread/WARN] [JMLogger] Can't get entityTexture for alexsmobs:textures/entity_icon/seal/seal_brown_0.png
+[17:34:29] [Render thread/WARN] [JMLogger] Can't get entityTexture for alexsmobs:textures/entity_icon/shoebill.png
+[17:34:29] [Render thread/WARN] [JMLogger] Can't get entityTexture for alexsmobs:textures/entity_icon/flying_fish_2.png
+[17:34:39] [Render thread/WARN] [JMLogger] Can't get entityTexture for alexsmobs:textures/entity_icon/crow.png
+[17:34:39] [Render thread/WARN] [JMLogger] Can't get entityTexture for alexsmobs:textures/entity_icon/catfish_small.png
+[17:34:39] [Render thread/WARN] [JMLogger] Can't get entityTexture for trials:textures/entity_icon/bogged.png
+[17:34:47] [Render thread/WARN] [JMLogger] Can't get entityTexture for minecraft:textures/entity_icon/villager/mechanic.png
+[17:35:07] [Render thread/WARN] [JMLogger] Can't get entityTexture for alexsmobs:textures/entity_icon/catfish_large.png
+[17:35:13] [Render thread/INFO] [JourneymapClient] Mapping halted in C:\Users\KeksNino\AppData\Roaming\gdlauncher_carbon\data\instances\modpack\instance\journeymap\data\mp\offline\minecraft:overworld
+[17:35:13] [JM-task-4/WARN] [TaskBatch] TaskBatch thread interrupted: journeymap.client.task.multi.MapPlayerTask$MapPlayerTaskBatch@72f140b1
+[17:35:20] [Server thread/INFO] [ForgeConfig] Loading JourneyMap Forge Configs

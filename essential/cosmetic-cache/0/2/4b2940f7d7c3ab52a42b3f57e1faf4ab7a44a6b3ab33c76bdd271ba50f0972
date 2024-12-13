@@ -1,0 +1,10 @@
+[
+  {
+    "id": "GROUND_POUND",
+    "type": "INTERRUPTS_EMOTE",
+    "enabled": false,
+    "data": {
+      "MOVEMENT": true
+    }
+  }
+]

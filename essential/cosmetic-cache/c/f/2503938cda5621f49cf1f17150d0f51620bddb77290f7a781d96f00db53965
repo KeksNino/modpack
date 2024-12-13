@@ -1,0 +1,383 @@
+[
+    {
+        "type": "VARIANTS",
+        "id": "UNUSED",
+        "enabled": true,
+        "data": {
+            "variants": [
+                {
+                    "name": "black",
+                    "color": 1710618
+                },
+                {
+                    "name": "purple",
+                    "color": 10363135
+                },
+                {
+                    "name": "orange",
+                    "color": 16732160
+                },
+                {
+                    "name": "green",
+                    "color": 2187801
+                },
+                {
+                    "name": "red",
+                    "color": 9895936
+                }
+            ]
+        }
+    },
+    {
+        "type": "ARMOR_HANDLING",
+        "id": "ANIMATRONIC_HEAD",
+        "enabled": true,
+        "data": {
+            "head": true
+        }
+    },
+    {
+        "type": "COSMETIC_BONE_HIDING",
+        "id": "ANGEL_HALO",
+        "enabled": true,
+        "data": {
+            "head": true
+        }
+    },
+    {
+        "type": "COSMETIC_BONE_HIDING",
+        "id": "ARMY_HELMET",
+        "enabled": true,
+        "data": {
+            "head": true
+        }
+    },
+    {
+        "type": "COSMETIC_BONE_HIDING",
+        "id": "BEANIE",
+        "enabled": true,
+        "data": {
+            "head": true
+        }
+    },
+    {
+        "type": "COSMETIC_BONE_HIDING",
+        "id": "BOWLER",
+        "enabled": true,
+        "data": {
+            "head": true
+        }
+    },
+    {
+        "type": "COSMETIC_BONE_HIDING",
+        "id": "BUBBO_APPLE_HAT",
+        "enabled": true,
+        "data": {
+            "head": true
+        }
+    },
+    {
+        "type": "COSMETIC_BONE_HIDING",
+        "id": "CAKE_HAT",
+        "enabled": true,
+        "data": {
+            "head": true
+        }
+    },
+    {
+        "type": "COSMETIC_BONE_HIDING",
+        "id": "CAP",
+        "enabled": true,
+        "data": {
+            "head": true
+        }
+    },
+    {
+        "type": "COSMETIC_BONE_HIDING",
+        "id": "CHEF_HAT",
+        "enabled": true,
+        "data": {
+            "head": true
+        }
+    },
+    {
+        "type": "COSMETIC_BONE_HIDING",
+        "id": "COLONIST_HAT",
+        "enabled": true,
+        "data": {
+            "head": true
+        }
+    },
+    {
+        "type": "COSMETIC_BONE_HIDING",
+        "id": "COWBOY_HAT",
+        "enabled": true,
+        "data": {
+            "head": true
+        }
+    },
+    {
+        "type": "COSMETIC_BONE_HIDING",
+        "id": "EMPLOYEE_HAT",
+        "enabled": true,
+        "data": {
+            "head": true
+        }
+    },
+    {
+        "type": "COSMETIC_BONE_HIDING",
+        "id": "ESSENTIAL_CAP",
+        "enabled": true,
+        "data": {
+            "head": true
+        }
+    },
+    {
+        "type": "COSMETIC_BONE_HIDING",
+        "id": "FEDORA",
+        "enabled": true,
+        "data": {
+            "head": true
+        }
+    },
+    {
+        "type": "COSMETIC_BONE_HIDING",
+        "id": "FEZ",
+        "enabled": true,
+        "data": {
+            "head": true
+        }
+    },
+    {
+        "type": "COSMETIC_BONE_HIDING",
+        "id": "FIREFIGHTER_HELMET",
+        "enabled": true,
+        "data": {
+            "head": true
+        }
+    },
+    {
+        "type": "COSMETIC_BONE_HIDING",
+        "id": "FLOWER",
+        "enabled": true,
+        "data": {
+            "head": true
+        }
+    },
+    {
+        "type": "COSMETIC_BONE_HIDING",
+        "id": "FLOWER_CROWN",
+        "enabled": true,
+        "data": {
+            "head": true
+        }
+    },
+    {
+        "type": "COSMETIC_BONE_HIDING",
+        "id": "FROG_HAT",
+        "enabled": true,
+        "data": {
+            "head": true
+        }
+    },
+    {
+        "type": "COSMETIC_BONE_HIDING",
+        "id": "FROG_HAT_LEGACY",
+        "enabled": true,
+        "data": {
+            "head": true
+        }
+    },
+    {
+        "type": "COSMETIC_BONE_HIDING",
+        "id": "KYLER_PENGUIN_CAP",
+        "enabled": true,
+        "data": {
+            "head": true
+        }
+    },
+    {
+        "type": "COSMETIC_BONE_HIDING",
+        "id": "MAID_HAT",
+        "enabled": true,
+        "data": {
+            "head": true
+        }
+    },
+    {
+        "type": "COSMETIC_BONE_HIDING",
+        "id": "MUSHROOM_CAP",
+        "enabled": true,
+        "data": {
+            "head": true
+        }
+    },
+    {
+        "type": "COSMETIC_BONE_HIDING",
+        "id": "PHARAOH_HEADDRESS",
+        "enabled": true,
+        "data": {
+            "head": true
+        }
+    },
+    {
+        "type": "COSMETIC_BONE_HIDING",
+        "id": "PILOT_HAT",
+        "enabled": true,
+        "data": {
+            "head": true
+        }
+    },
+    {
+        "type": "COSMETIC_BONE_HIDING",
+        "id": "PIRATE_HAT",
+        "enabled": true,
+        "data": {
+            "head": true
+        }
+    },
+    {
+        "type": "COSMETIC_BONE_HIDING",
+        "id": "PLANT",
+        "enabled": true,
+        "data": {
+            "head": true
+        }
+    },
+    {
+        "type": "COSMETIC_BONE_HIDING",
+        "id": "PROPELLER_HAT",
+        "enabled": true,
+        "data": {
+            "head": true
+        }
+    },
+    {
+        "type": "COSMETIC_BONE_HIDING",
+        "id": "QUEEN_CROWN",
+        "enabled": true,
+        "data": {
+            "head": true
+        }
+    },
+    {
+        "type": "COSMETIC_BONE_HIDING",
+        "id": "SAMURAI_HELMET",
+        "enabled": true,
+        "data": {
+            "head": true
+        }
+    },
+    {
+        "type": "COSMETIC_BONE_HIDING",
+        "id": "SANTA_HAT",
+        "enabled": true,
+        "data": {
+            "head": true
+        }
+    },
+    {
+        "type": "COSMETIC_BONE_HIDING",
+        "id": "SNIFFER_HAT",
+        "enabled": true,
+        "data": {
+            "head": true
+        }
+    },
+    {
+        "type": "COSMETIC_BONE_HIDING",
+        "id": "SODA_HAT",
+        "enabled": true,
+        "data": {
+            "head": true
+        }
+    },
+    {
+        "type": "COSMETIC_BONE_HIDING",
+        "id": "SOMBRERO",
+        "enabled": true,
+        "data": {
+            "head": true
+        }
+    },
+    {
+        "type": "COSMETIC_BONE_HIDING",
+        "id": "SORCERER_CONE",
+        "enabled": true,
+        "data": {
+            "head": true
+        }
+    },
+    {
+        "type": "COSMETIC_BONE_HIDING",
+        "id": "STEAMPUNK_HAT",
+        "enabled": true,
+        "data": {
+            "head": true
+        }
+    },
+    {
+        "type": "COSMETIC_BONE_HIDING",
+        "id": "STRAW_HAT",
+        "enabled": true,
+        "data": {
+            "head": true
+        }
+    },
+    {
+        "type": "COSMETIC_BONE_HIDING",
+        "id": "SUPER_TALL_COWBOY_HAT",
+        "enabled": true,
+        "data": {
+            "head": true
+        }
+    },
+    {
+        "type": "COSMETIC_BONE_HIDING",
+        "id": "TALL_COWBOY_HAT",
+        "enabled": true,
+        "data": {
+            "head": true
+        }
+    },
+    {
+        "type": "COSMETIC_BONE_HIDING",
+        "id": "TOP_HAT",
+        "enabled": true,
+        "data": {
+            "head": true
+        }
+    },
+    {
+        "type": "COSMETIC_BONE_HIDING",
+        "id": "UNICORN_HORN",
+        "enabled": true,
+        "data": {
+            "head": true
+        }
+    },
+    {
+        "type": "COSMETIC_BONE_HIDING",
+        "id": "VIKING_HELMET",
+        "enabled": true,
+        "data": {
+            "head": true
+        }
+    },
+    {
+        "type": "COSMETIC_BONE_HIDING",
+        "id": "WIZARD_HAT",
+        "enabled": true,
+        "data": {
+            "head": true
+        }
+    },
+    {
+        "type": "COSMETIC_BONE_HIDING",
+        "id": "KING_CROWN",
+        "enabled": true,
+        "data": {
+            "head": true
+        }
+    }
+]

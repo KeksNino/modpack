@@ -1,0 +1,260 @@
+[
+    {
+        "type": "ARMOR_HANDLING",
+        "id": "FALLEN_ANGEL_ARMOR",
+        "enabled": true,
+        "data": {
+            "arms": true,
+            "body": true,
+            "legs": true
+        }
+    },
+    {
+        "type": "VARIANTS",
+        "id": "UNUSED",
+        "enabled": true,
+        "data": {
+            "variants": [
+                {
+                    "name": "gold",
+                    "color": 14526464
+                },
+                {
+                    "name": "silver",
+                    "color": 12961221
+                }
+            ]
+        }
+    },
+    {
+        "type": "COSMETIC_BONE_HIDING",
+        "id": "BITZEL_SOCK_MONKEY",
+        "enabled": true,
+        "data": {
+            "head": true,
+            "arms": true,
+            "body": true,
+            "legs": true
+        }
+    },
+    {
+        "type": "COSMETIC_BONE_HIDING",
+        "id": "SHOULDER_PADS_UNDERWORLD",
+        "enabled": true,
+        "data": {
+            "head": true,
+            "arms": true,
+            "body": true,
+            "legs": true
+        }
+    },
+    {
+        "type": "COSMETIC_BONE_HIDING",
+        "id": "SHOULDER_PADS_OVERWORLD",
+        "enabled": true,
+        "data": {
+            "head": true,
+            "arms": true,
+            "body": true,
+            "legs": true
+        }
+    },
+    {
+        "type": "COSMETIC_BONE_HIDING",
+        "id": "MASHCLASH_SHOULDER_YETI",
+        "enabled": true,
+        "data": {
+            "head": true,
+            "arms": true,
+            "body": true,
+            "legs": true
+        }
+    },
+    {
+        "type": "COSMETIC_BONE_HIDING",
+        "id": "WHITE_FLAME_FISTS",
+        "enabled": true,
+        "data": {
+            "head": true,
+            "arms": true,
+            "body": true,
+            "legs": true
+        }
+    },
+    {
+        "type": "COSMETIC_BONE_HIDING",
+        "id": "BRACELET",
+        "enabled": true,
+        "data": {
+            "head": true,
+            "arms": true,
+            "body": true,
+            "legs": true
+        }
+    },
+    {
+        "type": "COSMETIC_BONE_HIDING",
+        "id": "CYBORG_ARM",
+        "enabled": true,
+        "data": {
+            "head": true,
+            "arms": true,
+            "body": true,
+            "legs": true
+        }
+    },
+    {
+        "type": "COSMETIC_BONE_HIDING",
+        "id": "DARK_MAGIC_FISTS",
+        "enabled": true,
+        "data": {
+            "head": true,
+            "arms": true,
+            "body": true,
+            "legs": true
+        }
+    },
+    {
+        "type": "COSMETIC_BONE_HIDING",
+        "id": "FIRE_FISTS",
+        "enabled": true,
+        "data": {
+            "head": true,
+            "arms": true,
+            "body": true,
+            "legs": true
+        }
+    },
+    {
+        "type": "COSMETIC_BONE_HIDING",
+        "id": "HEART_FIRE_FISTS",
+        "enabled": true,
+        "data": {
+            "head": true,
+            "arms": true,
+            "body": true,
+            "legs": true
+        }
+    },
+    {
+        "type": "COSMETIC_BONE_HIDING",
+        "id": "HOLOGRAPHIC_FISTS",
+        "enabled": true,
+        "data": {
+            "head": true,
+            "arms": true,
+            "body": true,
+            "legs": true
+        }
+    },
+    {
+        "type": "COSMETIC_BONE_HIDING",
+        "id": "ICE_HANDS",
+        "enabled": true,
+        "data": {
+            "head": true,
+            "arms": true,
+            "body": true,
+            "legs": true
+        }
+    },
+    {
+        "type": "COSMETIC_BONE_HIDING",
+        "id": "LIGHTNING_HANDS",
+        "enabled": true,
+        "data": {
+            "head": true,
+            "arms": true,
+            "body": true,
+            "legs": true
+        }
+    },
+    {
+        "type": "COSMETIC_BONE_HIDING",
+        "id": "MAGICAL_WRISTS",
+        "enabled": true,
+        "data": {
+            "head": true,
+            "arms": true,
+            "body": true,
+            "legs": true
+        }
+    },
+    {
+        "type": "COSMETIC_BONE_HIDING",
+        "id": "MIXED_FIRE_FISTS",
+        "enabled": true,
+        "data": {
+            "head": true,
+            "arms": true,
+            "body": true,
+            "legs": true
+        }
+    },
+    {
+        "type": "COSMETIC_BONE_HIDING",
+        "id": "NEON_RGB_FIRE_FISTS",
+        "enabled": true,
+        "data": {
+            "head": true,
+            "arms": true,
+            "body": true,
+            "legs": true
+        }
+    },
+    {
+        "type": "COSMETIC_BONE_HIDING",
+        "id": "SCULK_FISTS",
+        "enabled": true,
+        "data": {
+            "head": true,
+            "arms": true,
+            "body": true,
+            "legs": true
+        }
+    },
+    {
+        "type": "COSMETIC_BONE_HIDING",
+        "id": "SOUL_FLAME_HANDS",
+        "enabled": true,
+        "data": {
+            "head": true,
+            "arms": true,
+            "body": true,
+            "legs": true
+        }
+    },
+    {
+        "type": "COSMETIC_BONE_HIDING",
+        "id": "SUPER_GAUNTLET",
+        "enabled": true,
+        "data": {
+            "head": true,
+            "arms": true,
+            "body": true,
+            "legs": true
+        }
+    },
+    {
+        "type": "COSMETIC_BONE_HIDING",
+        "id": "WATER_FISTS",
+        "enabled": true,
+        "data": {
+            "head": true,
+            "arms": true,
+            "body": true,
+            "legs": true
+        }
+    },
+    {
+        "type": "COSMETIC_BONE_HIDING",
+        "id": "BOXING_GLOVES",
+        "enabled": true,
+        "data": {
+            "head": true,
+            "arms": true,
+            "body": true,
+            "legs": true
+        }
+    }
+]

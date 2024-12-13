@@ -1,0 +1,8 @@
+[
+    {
+        "type": "INTERRUPTS_EMOTE",
+        "id": "demonic_charge_up",
+        "enabled": true,
+        "data": {}
+    }
+]

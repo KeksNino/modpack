@@ -1,0 +1,40 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.magma_armor.emitter": {
+			"loop": true,
+			"animation_length": 1,
+			"bones": {
+				"source": {
+					"relative_to": {
+						"rotation": "world"
+					},
+					"rotation": [0, 0, 0]
+				}
+			},
+			"particle_effects": {
+				"0.0": [
+					{
+						"effect": "essential:ember_armor",
+						"locator": "source"
+					},
+					{
+						"effect": "essential:smoke_armor",
+						"locator": "source"
+					}
+				]
+			}
+		}
+	},
+	"triggers": [
+		{
+			"type": "IDLE",
+			"target": "ALL",
+			"name": "animation.magma_armor.emitter",
+			"probability": 1,
+			"priority": 1,
+			"skips": 0,
+			"loops": 1
+		}
+	]
+}

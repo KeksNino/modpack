@@ -1,0 +1,143 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.owl",
+				"texture_width": 64,
+				"texture_height": 64,
+				"visible_bounds_width": 5,
+				"visible_bounds_height": 5.5,
+				"visible_bounds_offset": [0, 2.25, 0]
+			},
+			"bones": [
+				{
+					"name": "root",
+					"pivot": [0, 0, 0]
+				},
+				{
+					"name": "head",
+					"parent": "root",
+					"pivot": [0, 24, 0]
+				},
+				{
+					"name": "pet",
+					"parent": "head",
+					"pivot": [0, 32, 0]
+				},
+				{
+					"name": "owl_pet",
+					"parent": "pet",
+					"pivot": [0, 32, 0]
+				},
+				{
+					"name": "body_pet",
+					"parent": "owl_pet",
+					"pivot": [0, 33, 0],
+					"cubes": [
+						{"origin": [-3, 33, -2], "size": [6, 4, 4], "uv": [0, 13]}
+					]
+				},
+				{
+					"name": "head_pet_ext",
+					"parent": "body_pet",
+					"pivot": [0, 37, 0]
+				},
+				{
+					"name": "head_pet",
+					"parent": "head_pet_ext",
+					"pivot": [0, 37, 0],
+					"cubes": [
+						{"origin": [-1, 37, -4], "size": [2, 2, 1], "uv": [23, 2]},
+						{"origin": [-3, 37, -3], "size": [6, 6, 6], "uv": [0, 0]},
+						{
+							"origin": [3, 41, -3],
+							"size": [2, 4, 0],
+							"uv": {
+								"north": {"uv": [22, 13], "uv_size": [-2, 4]}
+							}
+						},
+						{
+							"origin": [-5, 41, -3],
+							"size": [2, 4, 0],
+							"uv": {
+								"north": {"uv": [20, 13], "uv_size": [2, 4]}
+							}
+						}
+					]
+				},
+				{
+					"name": "tail_pet",
+					"parent": "body_pet",
+					"pivot": [0, 33, 2],
+					"rotation": [-22.5, 0, 0],
+					"cubes": [
+						{
+							"origin": [-3, 33, 2],
+							"size": [6, 0, 3],
+							"uv": {
+								"up": {"uv": [24, 18], "uv_size": [6, 3]}
+							}
+						}
+					]
+				},
+				{
+					"name": "wings_pet",
+					"parent": "body_pet",
+					"pivot": [0, 36.5, 0.5]
+				},
+				{
+					"name": "wing_pet_left",
+					"parent": "wings_pet",
+					"pivot": [3, 36.5, 0.5],
+					"cubes": [
+						{"origin": [3, 33, -1], "size": [1, 4, 3], "uv": [1, 23]}
+					]
+				},
+				{
+					"name": "wing_pet_right",
+					"parent": "wings_pet",
+					"pivot": [-3, 36.5, 0.5],
+					"cubes": [
+						{"origin": [-4, 33, -1], "size": [1, 4, 3], "uv": [1, 23], "mirror": true}
+					]
+				},
+				{
+					"name": "legs_pet",
+					"parent": "owl_pet",
+					"pivot": [0, 33, 0]
+				},
+				{
+					"name": "leg_pet_left",
+					"parent": "legs_pet",
+					"pivot": [1.5, 33, 0],
+					"cubes": [
+						{
+							"origin": [1, 32.05, -2],
+							"size": [2, 1, 2],
+							"uv": {
+								"south": {"uv": [17, 25], "uv_size": [2, 1]},
+								"down": {"uv": [15, 25], "uv_size": [2, -2]}
+							}
+						}
+					]
+				},
+				{
+					"name": "leg_pet_right",
+					"parent": "legs_pet",
+					"pivot": [-1.5, 33, 0],
+					"cubes": [
+						{
+							"origin": [-3, 32.05, -2],
+							"size": [2, 1, 2],
+							"uv": {
+								"south": {"uv": [19, 25], "uv_size": [-2, 1]},
+								"down": {"uv": [17, 25], "uv_size": [-2, -2]}
+							}
+						}
+					]
+				}
+			]
+		}
+	]
+}

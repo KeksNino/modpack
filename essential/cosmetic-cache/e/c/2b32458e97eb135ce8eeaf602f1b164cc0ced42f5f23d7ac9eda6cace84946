@@ -1,0 +1,39 @@
+[
+    {
+        "type": "VARIANTS",
+        "id": "UNUSED",
+        "enabled": true,
+        "data": {
+            "variants": [
+                {
+                    "name": "cosmic_purple",
+                    "color": 9918975
+                },
+                {
+                    "name": "flame_red",
+                    "color": 16731469
+                },
+                {
+                    "name": "light_blue",
+                    "color": 4087807
+                },
+                {
+                    "name": "swamp_green",
+                    "color": 6850587
+                },
+                {
+                    "name": "pastel_pink",
+                    "color": 16742313
+                }
+            ]
+        }
+    },
+    {
+        "type": "ARMOR_HANDLING",
+        "id": "SORCERER_CONE",
+        "enabled": true,
+        "data": {
+            "head": true
+        }
+    }
+]

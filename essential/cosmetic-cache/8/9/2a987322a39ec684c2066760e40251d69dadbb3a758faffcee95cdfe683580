@@ -1,0 +1,31 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.ice_staff.emitter": {
+			"animation_length": 1,
+			"particle_effects": {
+				"0.0": [
+					{
+						"effect": "essential:ice_staff_spiral",
+						"locator": "particle_source"
+					},
+					{
+						"effect": "essential:ice_staff_spread",
+						"locator": "particle_source"
+					}
+				]
+			}
+		}
+	},
+	"triggers": [
+		{
+			"type": "IDLE",
+			"target": "ALL",
+			"name": "animation.ice_staff.emitter",
+			"probability": 1,
+			"priority": 1,
+			"skips": 0,
+			"loops": 1
+		}
+	]
+}

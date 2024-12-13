@@ -1,0 +1,27 @@
+[
+    {
+        "type": "VARIANTS",
+        "id": "UNUSED",
+        "enabled": true,
+        "data": {
+            "variants": [
+                {
+                    "name": "brown",
+                    "color": 7684617
+                },
+                {
+                    "name": "white",
+                    "color": 14737632
+                },
+                {
+                    "name": "black",
+                    "color": 1644825
+                },
+                {
+                    "name": "light_brown",
+                    "color": 10909522
+                }
+            ]
+        }
+    }
+]

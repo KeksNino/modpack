@@ -1,0 +1,111 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.mushroom_cap",
+				"texture_width": 64,
+				"texture_height": 64,
+				"visible_bounds_width": 4,
+				"visible_bounds_height": 4.5,
+				"visible_bounds_offset": [0, 1.75, 0]
+			},
+			"bones": [
+				{
+					"name": "root",
+					"pivot": [0, 0, 0]
+				},
+				{
+					"name": "head",
+					"parent": "root",
+					"pivot": [0, 24, 0]
+				},
+				{
+					"name": "mushroom_cap",
+					"parent": "head",
+					"pivot": [0, 30, 0],
+					"rotation": [-22.5, 0, 0],
+					"cubes": [
+						{
+							"origin": [-7, 30, -7],
+							"size": [14, 6, 14],
+							"uv": {
+								"north": {"uv": [2, 31], "uv_size": [14, 6]},
+								"east": {"uv": [2, 31], "uv_size": [14, 6]},
+								"south": {"uv": [2, 31], "uv_size": [14, 6]},
+								"west": {"uv": [2, 31], "uv_size": [14, 6]},
+								"up": {"uv": [16, 52], "uv_size": [-14, -14]},
+								"down": {"uv": [31, 52], "uv_size": [-14, -14]}
+							}
+						}
+					]
+				},
+				{
+					"name": "frills",
+					"parent": "mushroom_cap",
+					"pivot": [0, 0, 0]
+				},
+				{
+					"name": "frills_1",
+					"parent": "frills",
+					"pivot": [0, 30, -4.5],
+					"rotation": [-30, 0, 0],
+					"cubes": [
+						{
+							"origin": [-7, 25, -4.5],
+							"size": [14, 5, 0],
+							"uv": {
+								"north": {"uv": [17, 31], "uv_size": [14, 5]}
+							}
+						}
+					]
+				},
+				{
+					"name": "frills_2",
+					"parent": "frills",
+					"pivot": [0, 30, 4.5],
+					"rotation": [30, 0, 0],
+					"cubes": [
+						{
+							"origin": [-7, 25, 4.5],
+							"size": [14, 5, 0],
+							"uv": {
+								"south": {"uv": [31, 31], "uv_size": [-14, 5]}
+							}
+						}
+					]
+				},
+				{
+					"name": "frills_3",
+					"parent": "frills",
+					"pivot": [4.5, 30, 0],
+					"rotation": [0, 0, -30],
+					"cubes": [
+						{
+							"origin": [4.5, 25, -7],
+							"size": [0, 5, 14],
+							"uv": {
+								"west": {"uv": [17, 31], "uv_size": [14, 5]}
+							}
+						}
+					]
+				},
+				{
+					"name": "frills_4",
+					"parent": "frills",
+					"pivot": [-4.5, 30, 0],
+					"rotation": [0, 0, 30],
+					"cubes": [
+						{
+							"origin": [-4.5, 25, -7],
+							"size": [0, 5, 14],
+							"uv": {
+								"east": {"uv": [31, 31], "uv_size": [-14, 5]}
+							}
+						}
+					]
+				}
+			]
+		}
+	]
+}

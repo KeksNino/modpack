@@ -1,0 +1,9 @@
+#556 minecraft:beach
+#6AF biomesoplenty:crag
+#646 biomesoplenty:dune_beach
+#35F biomesoplenty:jacaranda_glade
+#20D biomesoplenty:marsh
+#4F1 minecraft:ocean
+#3DC minecraft:plains
+#5FF minecraft:river
+#4D3 minecraft:swamp

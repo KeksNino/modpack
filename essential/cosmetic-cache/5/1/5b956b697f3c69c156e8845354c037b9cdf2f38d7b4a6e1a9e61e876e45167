@@ -1,0 +1,19 @@
+[
+    {
+        "type": "VARIANTS",
+        "id": "UNUSED",
+        "enabled": true,
+        "data": {
+            "variants": [
+                {
+                    "name": "white",
+                    "color": 13816530
+                },
+                {
+                    "name": "wither",
+                    "color": 1710361
+                }
+            ]
+        }
+    }
+]

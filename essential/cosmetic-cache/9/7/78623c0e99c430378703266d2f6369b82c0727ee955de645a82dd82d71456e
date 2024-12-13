@@ -1,0 +1,10 @@
+[
+    {
+        "type": "ARMOR_HANDLING",
+        "id": "FIRE_FEET",
+        "enabled": true,
+        "data": {
+            "legs": true
+        }
+    }
+]

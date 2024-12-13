@@ -1,0 +1,41 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.pumpkin_head",
+				"texture_width": 64,
+				"texture_height": 64,
+				"visible_bounds_width": 3,
+				"visible_bounds_height": 3.5,
+				"visible_bounds_offset": [0, 1.25, 0]
+			},
+			"bones": [
+				{
+					"name": "root",
+					"pivot": [0, 0, 0]
+				},
+				{
+					"name": "head",
+					"parent": "root",
+					"pivot": [0, 24, 0]
+				},
+				{
+					"name": "pumpkin",
+					"parent": "head",
+					"pivot": [0, 0, 0],
+					"cubes": [
+						{
+							"origin": [0, 34, -2],
+							"size": [0, 4, 5],
+							"uv": {
+								"east": {"uv": [51, 33], "uv_size": [5, 4]}
+							}
+						},
+						{"origin": [-5, 24, -5], "size": [10, 10, 10], "uv": [0, 0]}
+					]
+				}
+			]
+		}
+	]
+}

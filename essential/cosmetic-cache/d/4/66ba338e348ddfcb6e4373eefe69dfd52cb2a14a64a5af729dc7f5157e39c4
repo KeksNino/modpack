@@ -1,0 +1,49 @@
+[
+    {
+        "type": "VARIANTS",
+        "id": "UNUSED",
+        "enabled": true,
+        "data": {
+            "variants": [
+                {
+                    "name": "blue",
+                    "color": 2776442
+                },
+                {
+                    "name": "brown",
+                    "color": 5190696
+                },
+                {
+                    "name": "green",
+                    "color": 5596716
+                },
+                {
+                    "name": "red",
+                    "color": 9647187
+                },
+                {
+                    "name": "yellow",
+                    "color": 13803072
+                }
+            ]
+        }
+    },
+    {
+        "type": "ARMOR_HANDLING",
+        "id": "PICNIC_DRESS",
+        "enabled": true,
+        "data": {
+            "legs": true
+        }
+    },
+    {
+        "type": "EXTERNAL_HIDDEN_BONE",
+        "id": "UGLY_SWEATER",
+        "enabled": true,
+        "data": {
+            "body_outer": true,
+            "arm_left_outer": true,
+            "arm_right_outer": true
+        }
+    }
+]

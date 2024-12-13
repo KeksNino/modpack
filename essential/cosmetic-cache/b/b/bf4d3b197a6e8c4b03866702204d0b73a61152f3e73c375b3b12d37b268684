@@ -1,0 +1,39 @@
+[
+    {
+        "type": "ARMOR_HANDLING",
+        "id": "MAGMA_ARMOR",
+        "enabled": true,
+        "data": {
+            "arms": true,
+            "body": true,
+            "legs": true
+        }
+    },
+    {
+        "type": "VARIANTS",
+        "id": "UNUSED",
+        "enabled": true,
+        "data": {
+            "variants": [
+                {
+                    "name": "magma",
+                    "color": 16750336
+                },
+                {
+                    "name": "crying_obsidian",
+                    "color": 12976383
+                }
+            ]
+        }
+    },
+    {
+        "type": "EXTERNAL_HIDDEN_BONE",
+        "id": "UGLY_SWEATER",
+        "enabled": true,
+        "data": {
+            "body_outer": true,
+            "arm_left_outer": true,
+            "arm_right_outer": true
+        }
+    }
+]

@@ -1,0 +1,84 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.leaf_wings",
+				"texture_width": 64,
+				"texture_height": 64,
+				"visible_bounds_width": 5,
+				"visible_bounds_height": 4,
+				"visible_bounds_offset": [0, 1, 0]
+			},
+			"bones": [
+				{
+					"name": "root",
+					"pivot": [0, 0, 0]
+				},
+				{
+					"name": "body",
+					"parent": "root",
+					"pivot": [0, 12, 0]
+				},
+				{
+					"name": "wing_left_1",
+					"parent": "body",
+					"pivot": [2, 21, 2],
+					"rotation": [0, -30, 0],
+					"cubes": [
+						{
+							"origin": [2, 8, 2],
+							"size": [5, 24, 0],
+							"uv": {
+								"south": {"uv": [24, 31], "uv_size": [5, 24]}
+							}
+						}
+					]
+				},
+				{
+					"name": "wing_left_2",
+					"parent": "wing_left_1",
+					"pivot": [7, 21, 2],
+					"cubes": [
+						{
+							"origin": [7, 8, 2],
+							"size": [22, 24, 0],
+							"uv": {
+								"south": {"uv": [24, 0], "uv_size": [22, 24]}
+							}
+						}
+					]
+				},
+				{
+					"name": "wing_right_1",
+					"parent": "body",
+					"pivot": [-2, 21, 2],
+					"rotation": [0, 30, 0],
+					"cubes": [
+						{
+							"origin": [-7, 8, 2],
+							"size": [5, 24, 0],
+							"uv": {
+								"south": {"uv": [29, 31], "uv_size": [-5, 24]}
+							}
+						}
+					]
+				},
+				{
+					"name": "wing_right_2",
+					"parent": "wing_right_1",
+					"pivot": [-7, 21, 2],
+					"cubes": [
+						{
+							"origin": [-29, 8, 2],
+							"size": [22, 24, 0],
+							"uv": {
+								"south": {"uv": [46, 0], "uv_size": [-22, 24]}
+							}
+						}
+					]
+				}
+			]
+		}
+	]
+}

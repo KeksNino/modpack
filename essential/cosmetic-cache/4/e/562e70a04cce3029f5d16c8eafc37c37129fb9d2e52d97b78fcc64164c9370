@@ -1,0 +1,38 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.pale_garden_cape",
+				"texture_width": 64,
+				"texture_height": 32,
+				"visible_bounds_width": 3,
+				"visible_bounds_height": 4,
+				"visible_bounds_offset": [0, 1, 0]
+			},
+			"bones": [
+				{
+					"name": "root",
+					"pivot": [0, 0, 0]
+				},
+				{
+					"name": "cape",
+					"parent": "root",
+					"pivot": [0, 24, 2.5],
+					"rotation": [-6, 180, 0],
+					"cubes": [
+						{"origin": [-5, 8, 2], "size": [10, 16, 1], "uv": [0, 0]},
+						{
+							"origin": [-5, 10.02, 0.9925],
+							"size": [10, 0, 1],
+							"inflate": -0.0115,
+							"uv": {
+								"up": {"uv": [1, 14], "uv_size": [10, 1]}
+							}
+						}
+					]
+				}
+			]
+		}
+	]
+}
